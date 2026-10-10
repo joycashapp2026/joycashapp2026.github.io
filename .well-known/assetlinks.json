@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.joycashapp2026.twa",
+      "sha256_cert_fingerprints": [
+        "8E:A0:7A:C7:10:BE:BE:E2:48:AB:2D:94:14:5C:AF:6A:B1:14:3D:1E:28:84:FE:B9:7B:34:4E:97:B7:2D:E5:9F"
+      ]
+    }
+  }
+]
